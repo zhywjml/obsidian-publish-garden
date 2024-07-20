@@ -1,0 +1,3185 @@
+{
+  "vaultName": "云熙",
+  "lastExport": 1721456524804,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon background-settings-workplace-theme-light-in-the-note background-settings-workplace-theme-dark-in-the-sky background-image-settings-markdown-page-transparent notebook-liked-markdown-page-grid-notebook-1 panel-page-bg-theme-light-wall panel-page-bg-theme-dark-plant layout-style-options-default bt-default-unordered-list default-ol-list-marker list-no-border bt-connected-indent-hover bt-colorful-connected-indent-hover folder-icons remove-arrow bt-toggle-colorful-folder folder-style-change-options-colorful-border folder-colorful-six table-width-100 tag-default admonition-bg-color-same style-options-for-admonition-plugin style-options-for-buttons-plugin dataview-list-style-pacman memos-banner-gradient thino-frosted-style thino-background-default quiet-outline-optimize code-theme-bt-default whole-code-wrap",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "知识库/代码/Python/photo/Pasted image 20240703143225.png",
+    "知识库/代码/Python/photo/Pasted image 20240703143325.png",
+    "知识库/代码/Python/photo/Pasted image 20240703143357.png",
+    "知识库/代码/Python/photo/Pasted image 20240703143832.png",
+    "知识库/代码/Python/photo/Pasted image 20240703143919.png",
+    "知识库/代码/Python/photo/Pasted image 20240703144914.png",
+    "知识库/代码/Python/photo/Pasted image 20240703145351.png",
+    "知识库/代码/Python/photo/Pasted image 20240703145432.png",
+    "知识库/代码/Python/photo/Pasted image 20240703145509.png",
+    "知识库/代码/Python/photo/Pasted image 20240703145601.png",
+    "知识库/代码/Python/photo/Pasted image 20240703152755.png",
+    "知识库/代码/Python/photo/Pasted image 20240703153459.png",
+    "知识库/代码/Python/列表-字典-元组.md",
+    "知识库/代码/Python/Pyhton函数.md",
+    "知识库/代码/Python/Python input-写个用户问答互动程序.md",
+    "知识库/代码/Python/Python函数（上）- 不做代码复读机.md",
+    "知识库/代码/Python/Python命名规则-哪些变量名算好名字.md",
+    "知识库/代码/Python/Python数据类型-程序世界的物种们.md",
+    "知识库/代码/Python/Python数学运算-用代码秒杀计算器.md",
+    "知识库/代码/Python/Python条件语句-对象今天会生气吗.md",
+    "知识库/代码/Python/Python注释-悄悄在代码里骂用户.md",
+    "知识库/电赛/电赛培训笔记/视觉/相似轮廓识别.md",
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232506.png",
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232528.png",
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232613.png",
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232800.png",
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232821.png",
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232845.png",
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232906.png",
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232913.png",
+    "知识库/电赛/树莓派/视觉/树莓派视觉基础配置.md",
+    "知识库/电赛/OpenMV/API/分类/处理API/photo/Pasted image 20240629150126.png",
+    "知识库/电赛/OpenMV/API/分类/处理API/photo/Pasted image 20240629150148.png",
+    "知识库/电赛/OpenMV/API/分类/处理API/clock.tick().md",
+    "知识库/电赛/OpenMV/API/分类/处理API/image.difference().md",
+    "知识库/电赛/OpenMV/API/分类/处理API/image.get_statistics().md",
+    "知识库/电赛/OpenMV/API/分类/处理API/image.invert().md",
+    "知识库/电赛/OpenMV/API/分类/处理API/image.nand().md",
+    "知识库/电赛/OpenMV/API/分类/处理API/image.nor().md",
+    "知识库/电赛/OpenMV/API/分类/处理API/image.xnor().md",
+    "知识库/电赛/OpenMV/API/分类/处理API/image.xor().md",
+    "知识库/电赛/OpenMV/API/分类/处理API/img.find_blobs().md",
+    "知识库/电赛/OpenMV/API/分类/处理API/time.clock().md",
+    "知识库/电赛/OpenMV/API/分类/串口API/machine.UART().md",
+    "知识库/电赛/OpenMV/API/分类/串口API/UART.deinit().md",
+    "知识库/电赛/OpenMV/API/分类/串口API/UART.read().md",
+    "知识库/电赛/OpenMV/API/分类/串口API/UART.readline().md",
+    "知识库/电赛/OpenMV/API/分类/串口API/UART.write().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/image.format().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/image.get_pixel().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/image.height().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/image.size().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/image.width().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_auto_exposure().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_auto_gain().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_auto_whitebal().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_framesize().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_hmirror().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_pixformat().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_vflip().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_windowing().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.skip_frames().md",
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.snapshot().md",
+    "知识库/电赛/OpenMV/API/分类/绘图API/image.draw_arrow().md",
+    "知识库/电赛/OpenMV/API/分类/绘图API/image.draw_line().md",
+    "知识库/电赛/OpenMV/API/分类/绘图API/img.draw_cross.md",
+    "知识库/电赛/OpenMV/API/分类/绘图API/img.draw_rectangle.md",
+    "知识库/电赛/OpenMV/API/分类/绘图API/img.draw_string().md",
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.clear().md",
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.deinit().md",
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.display().md",
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.draw_string().md",
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.init().md",
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.mirror().md",
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.rotation().md",
+    "知识库/电赛/OpenMV/API/OpenMV-API.md",
+    "知识库/电赛/OpenMV/K210/photo/62ed39a25d3b29c013b02bc9cb17461.jpg",
+    "知识库/电赛/OpenMV/K210/photo/5897a9acf3699fb599cfb978bf5d708.jpg",
+    "知识库/电赛/OpenMV/K210/photo/8856e4b418fec409faf7dd9dd4c2eea.jpg",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628192904.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628193136.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628193359.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628193648.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628193941.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628194053.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628194319.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629150920.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629150940.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151307.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151327.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151403.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151409.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151428.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151443.png",
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151716.png",
+    "知识库/电赛/OpenMV/K210/01科技巡线例程.md",
+    "知识库/电赛/OpenMV/K210/视觉巡线以及矫正角度.md",
+    "知识库/电赛/Python/tuple.md",
+    "知识库/课内学习/电路/石群/photo/Paste image 1720436489485image.png",
+    "知识库/课内学习/电路/石群/photo/Paste image 1720436804752image.png",
+    "知识库/课内学习/电路/石群/photo/Paste image 1720482419529image.png",
+    "知识库/课内学习/电路/石群/photo/Paste image 1720509939025image.png",
+    "知识库/课内学习/电路/石群/photo/Paste image 1720510407113image.png",
+    "知识库/课内学习/电路/石群/photo/Paste image 1720591343845image.png",
+    "知识库/课内学习/电路/石群/photo/Paste image 17204834898841720483466349.jpg",
+    "知识库/课内学习/电路/石群/01-第一章-电路模型和电路定律.md",
+    "知识库/课内学习/电路/石群/02-第一章-电路模型和电路定律.md",
+    "知识库/课内学习/电路/石群/03-第一章-电路模型和电路定律.md",
+    "知识库/课内学习/电子测量技术基础/电子测量.md",
+    "知识库/课内学习/电子测量技术基础/电子测量.html",
+    "知识库/课内学习/毛概/毛概.html",
+    "知识库/课内学习/毛概/毛概.md",
+    "知识库/课内学习/物理/photo/Paste image 1720666021920image.png",
+    "知识库/课内学习/物理/photo/Paste image 1720667948432image.png",
+    "知识库/课内学习/物理/photo/Paste image 1720681620088image.png",
+    "知识库/课内学习/物理/photo/Pasted image 20240710154309.png",
+    "知识库/课内学习/物理/photo/Pasted image 20240710160307.png",
+    "知识库/课内学习/物理/photo/Pasted image 20240711095652.png",
+    "知识库/课内学习/物理/波导模式.md",
+    "知识库/课内学习/物理/波动方程.md",
+    "知识库/课内学习/物理/波矢.md",
+    "知识库/课内学习/物理/玻尔兹曼常数.md",
+    "知识库/课内学习/物理/传播波.md",
+    "知识库/课内学习/物理/传输矩阵.md",
+    "知识库/课内学习/物理/等离激元共振.md",
+    "知识库/课内学习/物理/等离子体干涉光学滤波器.md",
+    "知识库/课内学习/物理/低频表面等离激元.md",
+    "知识库/课内学习/物理/电磁波模式.md",
+    "知识库/课内学习/物理/费米能级.md",
+    "知识库/课内学习/物理/格林函数.md",
+    "知识库/课内学习/物理/黑体极限.md",
+    "知识库/课内学习/物理/化学势.md",
+    "知识库/课内学习/物理/介电.md",
+    "知识库/课内学习/物理/介电函数.md",
+    "知识库/课内学习/物理/介电函数实部以及虚部.md",
+    "知识库/课内学习/物理/晶格结构.md",
+    "知识库/课内学习/物理/良导体.md",
+    "知识库/课内学习/物理/模式耦合.md",
+    "知识库/课内学习/物理/能量传输系数.md",
+    "知识库/课内学习/物理/能流谱.md",
+    "知识库/课内学习/物理/偶极近似.md",
+    "知识库/课内学习/物理/坡印廷矢量.md",
+    "知识库/课内学习/物理/珀尔帖效应.md",
+    "知识库/课内学习/物理/普朗克定律.md",
+    "知识库/课内学习/物理/普朗克振子.md",
+    "知识库/课内学习/物理/热光伏器件与传统电池.md",
+    "知识库/课内学习/物理/热霍尔效应.md",
+    "知识库/课内学习/物理/热晶体管.md",
+    "知识库/课内学习/物理/热流.md",
+    "知识库/课内学习/物理/塞贝克效应.md",
+    "知识库/课内学习/物理/色散关系.md",
+    "知识库/课内学习/物理/声子极化子.md",
+    "知识库/课内学习/物理/声子与光子.md",
+    "知识库/课内学习/物理/时谐电磁场.md",
+    "知识库/课内学习/物理/倏逝表面模式转化为传播模式.md",
+    "知识库/课内学习/物理/倏逝波.md",
+    "知识库/课内学习/物理/倏逝波耦合.md",
+    "知识库/课内学习/物理/倏逝光子.md",
+    "知识库/课内学习/物理/双曲型色散关系.md",
+    "知识库/课内学习/物理/斯特藩-玻尔兹曼定律.md",
+    "知识库/课内学习/物理/隧穿.md",
+    "知识库/课内学习/物理/填充因子.md",
+    "知识库/课内学习/物理/透反射系数.md",
+    "知识库/课内学习/物理/涨落-耗散定理.md",
+    "知识库/课内学习/物理/涨落电动力学.md",
+    "知识库/课内学习/物理/真空间隙.md",
+    "知识库/课内学习/物理/轴-单轴.md",
+    "知识库/课内学习/物理/coth函数.md",
+    "知识库/课内学习/物理/FP共振.md",
+    "知识库/课内学习/物理/Lorentz 模型.md",
+    "知识库/课内学习/物理/Maxwell-Garnett有效介质理论.md",
+    "知识库/课内学习/物理/Schockley—Queisser 极限.md",
+    "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/代码部分/eps_graphene.md",
+    "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/代码部分/epsilonAg.md",
+    "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/代码部分/epsilonhBN.md",
+    "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/代码部分/epsilonHyper.md",
+    "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/论文复现——代码.md",
+    "知识库/论文-近场辐射三极管/2论文复现/三体二极管热辐射传导.md",
+    "知识库/论文-近场辐射三极管/2论文复现/Latella 等。 - 2021 - Radiative thermal rectification in many-body syste.pdf",
+    "知识库/论文-近场辐射三极管/2论文复现/PhysRevB.104.045410(翻译结果).pdf",
+    "知识库/论文-近场辐射三极管/表面等离激元研究新进展/表面等离激元研究新进展.md",
+    "知识库/论文-近场辐射三极管/表面等离激元研究新进展/王 - 2009 - 表面等离激元研究新进展.pdf",
+    "知识库/论文-近场辐射三极管/photo/Paste image 1720772582322image.png",
+    "知识库/论文-近场辐射三极管/photo/Paste image 1720780926021image.png",
+    "知识库/论文-近场辐射三极管/photo/Paste image 1720781468138image.png",
+    "知识库/论文-近场辐射三极管/photo/Paste image 1720781617027image.png",
+    "知识库/论文-近场辐射三极管/photo/Paste image 1720783472985image.png",
+    "知识库/论文-近场辐射三极管/photo/Paste image 1720783511943image.png",
+    "知识库/论文-近场辐射三极管/photo/Paste image 1721278505467image.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716091233.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716091558.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716091748.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716091909.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716092851.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716093654.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716093841.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716094701.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716094756.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716094940.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716101235.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716102205.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716102757.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716103125.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716103236.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716104847.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716105926.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716110041.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716110205.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716110339.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716110613.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716111604.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716111852.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716111942.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716151532.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716151646.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716152549.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716153943.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716154400.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716161807.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716163459.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716170817.png",
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716202252.png",
+    "知识库/论文-近场辐射三极管/第一周.md",
+    "知识库/论文-近场辐射三极管/第一周.html",
+    "知识库/论文-近场辐射三极管/第一周-绪论-阅读文献.md",
+    "知识库/论文-近场辐射三极管/第一周ppt讲稿.md",
+    "知识库/论文-近场辐射三极管/基于多孔SiC双曲超材料的...体系统近场辐射热传输的研究_李晓红 (1)-已解锁.pdf",
+    "知识库/论文-近场辐射三极管/理论提取.pdf",
+    "知识库/英语/外刊外文/单词库存/Dictionary.md",
+    "知识库/英语/外刊外文/单词库存/ReviewDictionary.md",
+    "知识库/英语/外刊外文/photo/photo/Pasted image 20240705161312.png",
+    "知识库/英语/外刊外文/photo/China home to over one-third of world's AI large language models.md",
+    "知识库/英语/外刊外文/photo/Pasted image 20240630105142.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240630105202.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240630105214.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240704180856.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240704191339.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240704191608.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240705161701.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240705161755.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240705161835.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240705161934.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240705161958.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240705162013.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240705162050.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240710233556.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240710233600.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240710233616.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240710233655.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240710233718.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240710233850.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240715204226.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240716141306.png",
+    "知识库/英语/外刊外文/photo/Pasted image 20240716141422.png",
+    "知识库/英语/外刊外文/《习近平谈治国理政》第三卷重要概念汉英对照（十八）.md",
+    "知识库/英语/外刊外文/Argentina returns 14 relics to China.md",
+    "知识库/英语/外刊外文/Chinese research team creates tiny, wireless brain sensor.md",
+    "知识库/英语/外刊外文/Conservation efforts help rare fish flourish in China's largest lake.md",
+    "知识库/英语/外刊外文/Culture insider customs of Sanfu  the dog days of summer.md",
+    "知识库/英语/外刊外文/Dongting Lake water levels drop.md",
+    "知识库/英语/外刊外文/First-half figures offer solid base for whole-year growth.md",
+    "知识库/英语/外刊外文/Liaoning scraps its rusty past to shine as hub of innovation.md",
+    "知识库/英语/外刊外文/Mixed use of fuel, food tankers sparks debate.md",
+    "知识库/英语/外刊外文/Samples from moon's far side 'thicker, stickier'.md",
+    "知识库/英语/外刊外文/Xi Focus Bearing China's lunar exploration endeavors in mind.md",
+    "lib/media/paste-image-1721278505467image.png",
+    "lib/media/paste-image-1720666021920image.png",
+    "lib/media/paste-image-1720667948432image.png",
+    "lib/media/paste-image-1720681620088image.png",
+    "lib/media/pasted-image-20240704191339.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "知识库/代码/Python/photo/Pasted image 20240703143225.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 35765,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703143225.png",
+      "dependencies": []
+    },
+    "知识库/代码/Python/photo/Pasted image 20240703143325.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 22717,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703143325.png",
+      "dependencies": []
+    },
+    "知识库/代码/Python/photo/Pasted image 20240703143357.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 144952,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703143357.png",
+      "dependencies": []
+    },
+    "知识库/代码/Python/photo/Pasted image 20240703143832.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 43601,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703143832.png",
+      "dependencies": []
+    },
+    "知识库/代码/Python/photo/Pasted image 20240703143919.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 133457,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703143919.png",
+      "dependencies": []
+    },
+    "知识库/代码/Python/photo/Pasted image 20240703144914.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 121353,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703144914.png",
+      "dependencies": []
+    },
+    "知识库/代码/Python/photo/Pasted image 20240703145351.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 144628,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703145351.png",
+      "dependencies": []
+    },
+    "知识库/代码/Python/photo/Pasted image 20240703145432.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 182392,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703145432.png",
+      "dependencies": []
+    },
+    "知识库/代码/Python/photo/Pasted image 20240703145509.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 155000,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703145509.png",
+      "dependencies": []
+    },
+    "知识库/代码/Python/photo/Pasted image 20240703145601.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 122071,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703145601.png",
+      "dependencies": []
+    },
+    "知识库/代码/Python/photo/Pasted image 20240703152755.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 206952,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703152755.png",
+      "dependencies": []
+    },
+    "知识库/代码/Python/photo/Pasted image 20240703153459.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 147127,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703153459.png",
+      "dependencies": []
+    },
+    "知识库/代码/Python/列表-字典-元组.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 490,
+      "exportedPath": "知识库/代码/python/列表-字典-元组.html",
+      "dependencies": [
+        "知识库/代码/python/photo/pasted-image-20240703144914.png",
+        "知识库/代码/python/photo/pasted-image-20240703144914.png",
+        "知识库/代码/python/photo/pasted-image-20240703145351.png",
+        "知识库/代码/python/photo/pasted-image-20240703145351.png",
+        "知识库/代码/python/photo/pasted-image-20240703145432.png",
+        "知识库/代码/python/photo/pasted-image-20240703145432.png",
+        "知识库/代码/python/photo/pasted-image-20240703145509.png",
+        "知识库/代码/python/photo/pasted-image-20240703145509.png",
+        "知识库/代码/python/photo/pasted-image-20240703145601.png",
+        "知识库/代码/python/photo/pasted-image-20240703145601.png"
+      ]
+    },
+    "知识库/代码/Python/Pyhton函数.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 117,
+      "exportedPath": "知识库/代码/python/pyhton函数.html",
+      "dependencies": [
+        "知识库/代码/python/photo/pasted-image-20240703152755.png",
+        "知识库/代码/python/photo/pasted-image-20240703152755.png",
+        "知识库/代码/python/photo/pasted-image-20240703153459.png",
+        "知识库/代码/python/photo/pasted-image-20240703153459.png"
+      ]
+    },
+    "知识库/代码/Python/Python input-写个用户问答互动程序.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 112,
+      "exportedPath": "知识库/代码/python/python-input-写个用户问答互动程序.html",
+      "dependencies": [
+        "知识库/代码/python/photo/pasted-image-20240703143832.png",
+        "知识库/代码/python/photo/pasted-image-20240703143832.png",
+        "知识库/代码/python/photo/pasted-image-20240703143919.png",
+        "知识库/代码/python/photo/pasted-image-20240703143919.png"
+      ]
+    },
+    "知识库/代码/Python/Python函数（上）- 不做代码复读机.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 41,
+      "exportedPath": "知识库/代码/python/python函数（上）-不做代码复读机.html",
+      "dependencies": []
+    },
+    "知识库/代码/Python/Python命名规则-哪些变量名算好名字.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 438,
+      "exportedPath": "知识库/代码/python/python命名规则-哪些变量名算好名字.html",
+      "dependencies": []
+    },
+    "知识库/代码/Python/Python数据类型-程序世界的物种们.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 260,
+      "exportedPath": "知识库/代码/python/python数据类型-程序世界的物种们.html",
+      "dependencies": [
+        "知识库/代码/python/photo/pasted-image-20240703143225.png",
+        "知识库/代码/python/photo/pasted-image-20240703143225.png",
+        "知识库/代码/python/photo/pasted-image-20240703143325.png",
+        "知识库/代码/python/photo/pasted-image-20240703143325.png",
+        "知识库/代码/python/photo/pasted-image-20240703143357.png",
+        "知识库/代码/python/photo/pasted-image-20240703143357.png"
+      ]
+    },
+    "知识库/代码/Python/Python数学运算-用代码秒杀计算器.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 205,
+      "exportedPath": "知识库/代码/python/python数学运算-用代码秒杀计算器.html",
+      "dependencies": []
+    },
+    "知识库/代码/Python/Python条件语句-对象今天会生气吗.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 83,
+      "exportedPath": "知识库/代码/python/python条件语句-对象今天会生气吗.html",
+      "dependencies": []
+    },
+    "知识库/代码/Python/Python注释-悄悄在代码里骂用户.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 98,
+      "exportedPath": "知识库/代码/python/python注释-悄悄在代码里骂用户.html",
+      "dependencies": []
+    },
+    "知识库/电赛/电赛培训笔记/视觉/相似轮廓识别.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2303,
+      "exportedPath": "知识库/电赛/电赛培训笔记/视觉/相似轮廓识别.html",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232506.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 147846,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232506.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232528.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 147846,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232528.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232613.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 147846,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232613.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232800.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 23232,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232800.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232821.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 38339,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232821.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232845.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 28507,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232845.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232906.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 28010,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232906.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/Pasted image 20240627232913.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 30229,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232913.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/树莓派视觉基础配置.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 3322,
+      "exportedPath": "知识库/电赛/树莓派/视觉/树莓派视觉基础配置.html",
+      "dependencies": [
+        "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232613.png",
+        "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232613.png",
+        "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232800.png",
+        "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232800.png",
+        "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232821.png",
+        "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232821.png",
+        "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232845.png",
+        "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232845.png",
+        "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232906.png",
+        "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232906.png",
+        "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232913.png",
+        "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232913.png"
+      ]
+    },
+    "知识库/电赛/OpenMV/API/分类/处理API/photo/Pasted image 20240629150126.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 145597,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/photo/pasted-image-20240629150126.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/处理API/photo/Pasted image 20240629150148.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 237508,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/photo/pasted-image-20240629150148.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/处理API/clock.tick().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1733,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/clock.tick().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/处理API/image.difference().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2268,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/image.difference().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/处理API/image.get_statistics().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 4707,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/image.get_statistics().html",
+      "dependencies": [
+        "知识库/电赛/openmv/api/分类/处理api/photo/pasted-image-20240629150148.png",
+        "知识库/电赛/openmv/api/分类/处理api/photo/pasted-image-20240629150148.png",
+        "知识库/电赛/openmv/api/分类/处理api/photo/pasted-image-20240629150126.png",
+        "知识库/电赛/openmv/api/分类/处理api/photo/pasted-image-20240629150126.png"
+      ]
+    },
+    "知识库/电赛/OpenMV/API/分类/处理API/image.invert().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1911,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/image.invert().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/处理API/image.nand().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2024,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/image.nand().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/处理API/image.nor().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2093,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/image.nor().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/处理API/image.xnor().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1624,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/image.xnor().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/处理API/image.xor().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1976,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/image.xor().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/处理API/img.find_blobs().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 5373,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/img.find_blobs().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/处理API/time.clock().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1883,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/time.clock().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/串口API/machine.UART().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2794,
+      "exportedPath": "知识库/电赛/openmv/api/分类/串口api/machine.uart().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/串口API/UART.deinit().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1424,
+      "exportedPath": "知识库/电赛/openmv/api/分类/串口api/uart.deinit().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/串口API/UART.read().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1760,
+      "exportedPath": "知识库/电赛/openmv/api/分类/串口api/uart.read().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/串口API/UART.readline().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2036,
+      "exportedPath": "知识库/电赛/openmv/api/分类/串口api/uart.readline().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/串口API/UART.write().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1679,
+      "exportedPath": "知识库/电赛/openmv/api/分类/串口api/uart.write().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/image.format().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2019,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/image.format().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/image.get_pixel().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2860,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/image.get_pixel().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/image.height().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1846,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/image.height().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/image.size().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2015,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/image.size().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/image.width().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1861,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/image.width().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_auto_exposure().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2092,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/sensor.set_auto_exposure().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_auto_gain().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2209,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/sensor.set_auto_gain().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_auto_whitebal().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1906,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/sensor.set_auto_whitebal().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_framesize().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1799,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/sensor.set_framesize().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_hmirror().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1578,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/sensor.set_hmirror().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_pixformat().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1976,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/sensor.set_pixformat().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_vflip().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1645,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/sensor.set_vflip().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.set_windowing().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2191,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/sensor.set_windowing().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.skip_frames().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1530,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/sensor.skip_frames().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/画面API/sensor.snapshot().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1616,
+      "exportedPath": "知识库/电赛/openmv/api/分类/画面api/sensor.snapshot().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/绘图API/image.draw_arrow().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 0,
+      "exportedPath": "知识库/电赛/openmv/api/分类/绘图api/image.draw_arrow().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/绘图API/image.draw_line().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1788,
+      "exportedPath": "知识库/电赛/openmv/api/分类/绘图api/image.draw_line().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/绘图API/img.draw_cross.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1631,
+      "exportedPath": "知识库/电赛/openmv/api/分类/绘图api/img.draw_cross.html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/绘图API/img.draw_rectangle.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2124,
+      "exportedPath": "知识库/电赛/openmv/api/分类/绘图api/img.draw_rectangle.html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/绘图API/img.draw_string().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1901,
+      "exportedPath": "知识库/电赛/openmv/api/分类/绘图api/img.draw_string().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.clear().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1397,
+      "exportedPath": "知识库/电赛/openmv/api/分类/lcd-api/lcd.clear().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.deinit().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1323,
+      "exportedPath": "知识库/电赛/openmv/api/分类/lcd-api/lcd.deinit().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.display().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1548,
+      "exportedPath": "知识库/电赛/openmv/api/分类/lcd-api/lcd.display().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.draw_string().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1751,
+      "exportedPath": "知识库/电赛/openmv/api/分类/lcd-api/lcd.draw_string().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.init().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2185,
+      "exportedPath": "知识库/电赛/openmv/api/分类/lcd-api/lcd.init().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.mirror().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1499,
+      "exportedPath": "知识库/电赛/openmv/api/分类/lcd-api/lcd.mirror().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/分类/LCD-API/lcd.rotation().md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1502,
+      "exportedPath": "知识库/电赛/openmv/api/分类/lcd-api/lcd.rotation().html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/API/OpenMV-API.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 3374,
+      "exportedPath": "知识库/电赛/openmv/api/openmv-api.html",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/62ed39a25d3b29c013b02bc9cb17461.jpg": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 151910,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/62ed39a25d3b29c013b02bc9cb17461.jpg",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/5897a9acf3699fb599cfb978bf5d708.jpg": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 117936,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/5897a9acf3699fb599cfb978bf5d708.jpg",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/8856e4b418fec409faf7dd9dd4c2eea.jpg": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 522200,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/8856e4b418fec409faf7dd9dd4c2eea.jpg",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628192904.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 347769,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628192904.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628193136.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 11225,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628193136.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628193359.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 48824,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628193359.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628193648.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 102223,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628193648.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628193941.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 106419,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628193941.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628194053.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 93606,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628194053.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240628194319.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 32853,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628194319.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629150920.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 622780,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629150920.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629150940.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 34975,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629150940.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151307.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 40785,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151307.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151327.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 15190,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151327.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151403.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 39496,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151403.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151409.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 8886,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151409.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151428.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 40558,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151428.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151443.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 9107,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151443.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/photo/Pasted image 20240629151716.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 80112,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151716.png",
+      "dependencies": []
+    },
+    "知识库/电赛/OpenMV/K210/01科技巡线例程.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 10532,
+      "exportedPath": "知识库/电赛/openmv/k210/01科技巡线例程.html",
+      "dependencies": [
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629150920.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629150920.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629150940.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629150940.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151716.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151716.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151307.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151307.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151327.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151327.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151403.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151403.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151409.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151409.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151428.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151428.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151443.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240629151443.png"
+      ]
+    },
+    "知识库/电赛/OpenMV/K210/视觉巡线以及矫正角度.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 8976,
+      "exportedPath": "知识库/电赛/openmv/k210/视觉巡线以及矫正角度.html",
+      "dependencies": [
+        "知识库/电赛/openmv/k210/photo/8856e4b418fec409faf7dd9dd4c2eea.jpg",
+        "知识库/电赛/openmv/k210/photo/8856e4b418fec409faf7dd9dd4c2eea.jpg",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628192904.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628192904.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628193136.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628193136.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628193359.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628193359.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628193941.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628193941.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628194053.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628194053.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628193648.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628193648.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628194319.png",
+        "知识库/电赛/openmv/k210/photo/pasted-image-20240628194319.png",
+        "知识库/电赛/openmv/k210/photo/62ed39a25d3b29c013b02bc9cb17461.jpg",
+        "知识库/电赛/openmv/k210/photo/62ed39a25d3b29c013b02bc9cb17461.jpg",
+        "知识库/电赛/openmv/k210/photo/5897a9acf3699fb599cfb978bf5d708.jpg",
+        "知识库/电赛/openmv/k210/photo/5897a9acf3699fb599cfb978bf5d708.jpg"
+      ]
+    },
+    "知识库/电赛/Python/tuple.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2352,
+      "exportedPath": "知识库/电赛/python/tuple.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/电路/石群/photo/Paste image 1720436489485image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 145302,
+      "exportedPath": "知识库/课内学习/电路/石群/photo/paste-image-1720436489485image.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/电路/石群/photo/Paste image 1720436804752image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 11201,
+      "exportedPath": "知识库/课内学习/电路/石群/photo/paste-image-1720436804752image.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/电路/石群/photo/Paste image 1720482419529image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 7916,
+      "exportedPath": "知识库/课内学习/电路/石群/photo/paste-image-1720482419529image.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/电路/石群/photo/Paste image 1720509939025image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 35119,
+      "exportedPath": "知识库/课内学习/电路/石群/photo/paste-image-1720509939025image.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/电路/石群/photo/Paste image 1720510407113image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 29466,
+      "exportedPath": "知识库/课内学习/电路/石群/photo/paste-image-1720510407113image.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/电路/石群/photo/Paste image 1720591343845image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 60628,
+      "exportedPath": "知识库/课内学习/电路/石群/photo/paste-image-1720591343845image.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/电路/石群/photo/Paste image 17204834898841720483466349.jpg": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 222587,
+      "exportedPath": "知识库/课内学习/电路/石群/photo/paste-image-17204834898841720483466349.jpg",
+      "dependencies": []
+    },
+    "知识库/课内学习/电路/石群/01-第一章-电路模型和电路定律.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 3888,
+      "exportedPath": "知识库/课内学习/电路/石群/01-第一章-电路模型和电路定律.html",
+      "dependencies": [
+        "知识库/课内学习/电路/石群/photo/paste-image-17204834898841720483466349.jpg"
+      ]
+    },
+    "知识库/课内学习/电路/石群/02-第一章-电路模型和电路定律.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2361,
+      "exportedPath": "知识库/课内学习/电路/石群/02-第一章-电路模型和电路定律.html",
+      "dependencies": [
+        "知识库/课内学习/电路/石群/photo/paste-image-1720509939025image.png",
+        "知识库/课内学习/电路/石群/photo/paste-image-1720510407113image.png"
+      ]
+    },
+    "知识库/课内学习/电路/石群/03-第一章-电路模型和电路定律.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1841,
+      "exportedPath": "知识库/课内学习/电路/石群/03-第一章-电路模型和电路定律.html",
+      "dependencies": [
+        "知识库/课内学习/电路/石群/photo/paste-image-1720591343845image.png"
+      ]
+    },
+    "知识库/课内学习/电子测量技术基础/电子测量.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 4806,
+      "exportedPath": "知识库/课内学习/电子测量技术基础/电子测量.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/电子测量技术基础/电子测量.html": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 435222,
+      "exportedPath": "知识库/课内学习/电子测量技术基础/电子测量.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/毛概/毛概.html": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 712046,
+      "exportedPath": "知识库/课内学习/毛概/毛概.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/毛概/毛概.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 5559,
+      "exportedPath": "知识库/课内学习/毛概/毛概.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/photo/Paste image 1720666021920image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 254901,
+      "exportedPath": "知识库/课内学习/物理/photo/paste-image-1720666021920image.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/photo/Paste image 1720667948432image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 453206,
+      "exportedPath": "知识库/课内学习/物理/photo/paste-image-1720667948432image.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/photo/Paste image 1720681620088image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 174193,
+      "exportedPath": "知识库/课内学习/物理/photo/paste-image-1720681620088image.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/photo/Pasted image 20240710154309.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 34953,
+      "exportedPath": "知识库/课内学习/物理/photo/pasted-image-20240710154309.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/photo/Pasted image 20240710160307.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 3901702,
+      "exportedPath": "知识库/课内学习/物理/photo/pasted-image-20240710160307.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/photo/Pasted image 20240711095652.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 347118,
+      "exportedPath": "知识库/课内学习/物理/photo/pasted-image-20240711095652.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/波导模式.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2016,
+      "exportedPath": "知识库/课内学习/物理/波导模式.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/波动方程.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1675,
+      "exportedPath": "知识库/课内学习/物理/波动方程.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/波矢.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 3807,
+      "exportedPath": "知识库/课内学习/物理/波矢.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/玻尔兹曼常数.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1704,
+      "exportedPath": "知识库/课内学习/物理/玻尔兹曼常数.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/传播波.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1978,
+      "exportedPath": "知识库/课内学习/物理/传播波.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/传输矩阵.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2141,
+      "exportedPath": "知识库/课内学习/物理/传输矩阵.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/等离激元共振.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2555,
+      "exportedPath": "知识库/课内学习/物理/等离激元共振.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/等离子体干涉光学滤波器.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2556,
+      "exportedPath": "知识库/课内学习/物理/等离子体干涉光学滤波器.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/低频表面等离激元.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 882,
+      "exportedPath": "知识库/课内学习/物理/低频表面等离激元.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/电磁波模式.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 6523,
+      "exportedPath": "知识库/课内学习/物理/电磁波模式.html",
+      "dependencies": [
+        "知识库/课内学习/物理/photo/pasted-image-20240710154309.png",
+        "知识库/课内学习/物理/photo/pasted-image-20240710154309.png"
+      ]
+    },
+    "知识库/课内学习/物理/费米能级.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2375,
+      "exportedPath": "知识库/课内学习/物理/费米能级.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/格林函数.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2024,
+      "exportedPath": "知识库/课内学习/物理/格林函数.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/黑体极限.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2179,
+      "exportedPath": "知识库/课内学习/物理/黑体极限.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/化学势.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2488,
+      "exportedPath": "知识库/课内学习/物理/化学势.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/介电.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1206,
+      "exportedPath": "知识库/课内学习/物理/介电.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/介电函数.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2260,
+      "exportedPath": "知识库/课内学习/物理/介电函数.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/介电函数实部以及虚部.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 4427,
+      "exportedPath": "知识库/课内学习/物理/介电函数实部以及虚部.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/晶格结构.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2254,
+      "exportedPath": "知识库/课内学习/物理/晶格结构.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/良导体.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 942,
+      "exportedPath": "知识库/课内学习/物理/良导体.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/模式耦合.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2618,
+      "exportedPath": "知识库/课内学习/物理/模式耦合.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/能量传输系数.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2132,
+      "exportedPath": "知识库/课内学习/物理/能量传输系数.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/能流谱.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2248,
+      "exportedPath": "知识库/课内学习/物理/能流谱.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/偶极近似.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1918,
+      "exportedPath": "知识库/课内学习/物理/偶极近似.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/坡印廷矢量.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1317,
+      "exportedPath": "知识库/课内学习/物理/坡印廷矢量.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/珀尔帖效应.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2349,
+      "exportedPath": "知识库/课内学习/物理/珀尔帖效应.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/普朗克定律.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 842,
+      "exportedPath": "知识库/课内学习/物理/普朗克定律.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/普朗克振子.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2100,
+      "exportedPath": "知识库/课内学习/物理/普朗克振子.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/热光伏器件与传统电池.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2027,
+      "exportedPath": "知识库/课内学习/物理/热光伏器件与传统电池.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/热霍尔效应.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2307,
+      "exportedPath": "知识库/课内学习/物理/热霍尔效应.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/热晶体管.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2529,
+      "exportedPath": "知识库/课内学习/物理/热晶体管.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/热流.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2022,
+      "exportedPath": "知识库/课内学习/物理/热流.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/塞贝克效应.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2053,
+      "exportedPath": "知识库/课内学习/物理/塞贝克效应.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/色散关系.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2252,
+      "exportedPath": "知识库/课内学习/物理/色散关系.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/声子极化子.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2698,
+      "exportedPath": "知识库/课内学习/物理/声子极化子.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/声子与光子.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2310,
+      "exportedPath": "知识库/课内学习/物理/声子与光子.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/时谐电磁场.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1561,
+      "exportedPath": "知识库/课内学习/物理/时谐电磁场.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/倏逝表面模式转化为传播模式.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2459,
+      "exportedPath": "知识库/课内学习/物理/倏逝表面模式转化为传播模式.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/倏逝波.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1839,
+      "exportedPath": "知识库/课内学习/物理/倏逝波.html",
+      "dependencies": [
+        "知识库/课内学习/物理/photo/pasted-image-20240710160307.png",
+        "知识库/课内学习/物理/photo/pasted-image-20240710160307.png"
+      ]
+    },
+    "知识库/课内学习/物理/倏逝波耦合.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2171,
+      "exportedPath": "知识库/课内学习/物理/倏逝波耦合.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/倏逝光子.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1876,
+      "exportedPath": "知识库/课内学习/物理/倏逝光子.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/双曲型色散关系.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2434,
+      "exportedPath": "知识库/课内学习/物理/双曲型色散关系.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/斯特藩-玻尔兹曼定律.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 964,
+      "exportedPath": "知识库/课内学习/物理/斯特藩-玻尔兹曼定律.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/隧穿.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2148,
+      "exportedPath": "知识库/课内学习/物理/隧穿.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/填充因子.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2062,
+      "exportedPath": "知识库/课内学习/物理/填充因子.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/透反射系数.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2587,
+      "exportedPath": "知识库/课内学习/物理/透反射系数.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/涨落-耗散定理.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1572,
+      "exportedPath": "知识库/课内学习/物理/涨落-耗散定理.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/涨落电动力学.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1619,
+      "exportedPath": "知识库/课内学习/物理/涨落电动力学.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/真空间隙.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2195,
+      "exportedPath": "知识库/课内学习/物理/真空间隙.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/轴-单轴.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1882,
+      "exportedPath": "知识库/课内学习/物理/轴-单轴.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/coth函数.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1786,
+      "exportedPath": "知识库/课内学习/物理/coth函数.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/FP共振.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1904,
+      "exportedPath": "知识库/课内学习/物理/fp共振.html",
+      "dependencies": [
+        "知识库/课内学习/物理/photo/pasted-image-20240711095652.png",
+        "知识库/课内学习/物理/photo/pasted-image-20240711095652.png"
+      ]
+    },
+    "知识库/课内学习/物理/Lorentz 模型.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1978,
+      "exportedPath": "知识库/课内学习/物理/lorentz-模型.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/Maxwell-Garnett有效介质理论.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2407,
+      "exportedPath": "知识库/课内学习/物理/maxwell-garnett有效介质理论.html",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/Schockley—Queisser 极限.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2312,
+      "exportedPath": "知识库/课内学习/物理/schockley—queisser-极限.html",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/代码部分/eps_graphene.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2007,
+      "exportedPath": "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/代码部分/eps_graphene.html",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/代码部分/epsilonAg.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1361,
+      "exportedPath": "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/代码部分/epsilonag.html",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/代码部分/epsilonhBN.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 3133,
+      "exportedPath": "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/代码部分/epsilonhbn.html",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/代码部分/epsilonHyper.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2951,
+      "exportedPath": "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/代码部分/epsilonhyper.html",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/论文复现——代码.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 3139,
+      "exportedPath": "知识库/论文-近场辐射三极管/2论文复现/论文复现-代码/论文复现——代码.html",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/2论文复现/三体二极管热辐射传导.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 990,
+      "exportedPath": "知识库/论文-近场辐射三极管/2论文复现/三体二极管热辐射传导.html",
+      "dependencies": [
+        "lib/media/paste-image-1721278505467image.png"
+      ]
+    },
+    "知识库/论文-近场辐射三极管/2论文复现/Latella 等。 - 2021 - Radiative thermal rectification in many-body syste.pdf": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 464558,
+      "exportedPath": "知识库/论文-近场辐射三极管/2论文复现/latella-等。-2021-radiative-thermal-rectification-in-many-body-syste.pdf",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/2论文复现/PhysRevB.104.045410(翻译结果).pdf": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1778891,
+      "exportedPath": "知识库/论文-近场辐射三极管/2论文复现/physrevb.104.045410(翻译结果).pdf",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/表面等离激元研究新进展/表面等离激元研究新进展.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1326,
+      "exportedPath": "知识库/论文-近场辐射三极管/表面等离激元研究新进展/表面等离激元研究新进展.html",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/表面等离激元研究新进展/王 - 2009 - 表面等离激元研究新进展.pdf": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 5251957,
+      "exportedPath": "知识库/论文-近场辐射三极管/表面等离激元研究新进展/王-2009-表面等离激元研究新进展.pdf",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Paste image 1720772582322image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 343279,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/paste-image-1720772582322image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Paste image 1720780926021image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 222743,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/paste-image-1720780926021image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Paste image 1720781468138image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 144377,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/paste-image-1720781468138image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Paste image 1720781617027image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 503943,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/paste-image-1720781617027image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Paste image 1720783472985image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 352679,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/paste-image-1720783472985image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Paste image 1720783511943image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 152786,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/paste-image-1720783511943image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Paste image 1721278505467image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 159577,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/paste-image-1721278505467image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716091233.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 158041,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091233.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716091558.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 173067,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091558.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716091748.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 84962,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091748.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716091909.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 197137,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091909.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716092851.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 322653,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716092851.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716093654.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 85972,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716093654.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716093841.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 217770,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716093841.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716094701.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 275022,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094701.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716094756.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 86748,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094756.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716094940.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 191555,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094940.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716101235.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 264860,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716101235.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716102205.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 385018,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716102205.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716102757.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 145365,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716102757.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716103125.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 173198,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716103125.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716103236.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 649830,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716103236.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716104847.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 212336,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716104847.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716105926.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 328716,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716105926.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716110041.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 85283,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110041.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716110205.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 86165,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110205.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716110339.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 159892,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110339.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716110613.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 99387,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110613.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716111604.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 385371,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111604.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716111852.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 122970,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111852.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716111942.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 287639,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111942.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716151532.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 85829,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716151532.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716151646.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 190561,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716151646.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716152549.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 332753,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716152549.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716153943.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 220987,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716153943.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716154400.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 254479,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716154400.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716161807.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 277806,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716161807.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716163459.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 345919,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716163459.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716170817.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 188629,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716170817.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/Pasted image 20240716202252.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 539451,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716202252.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/第一周.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 15377,
+      "exportedPath": "知识库/论文-近场辐射三极管/第一周.html",
+      "dependencies": [
+        "知识库/论文-近场辐射三极管/photo/paste-image-1720772582322image.png",
+        "知识库/论文-近场辐射三极管/photo/paste-image-1720780926021image.png",
+        "知识库/论文-近场辐射三极管/photo/paste-image-1720781468138image.png",
+        "知识库/论文-近场辐射三极管/photo/paste-image-1720781617027image.png",
+        "知识库/论文-近场辐射三极管/photo/paste-image-1720783511943image.png",
+        "知识库/论文-近场辐射三极管/photo/paste-image-1720783472985image.png"
+      ]
+    },
+    "知识库/论文-近场辐射三极管/第一周.html": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2392334,
+      "exportedPath": "知识库/论文-近场辐射三极管/第一周.html",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/第一周-绪论-阅读文献.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 14884,
+      "exportedPath": "知识库/论文-近场辐射三极管/第一周-绪论-阅读文献.html",
+      "dependencies": [
+        "lib/media/paste-image-1720666021920image.png",
+        "lib/media/paste-image-1720667948432image.png",
+        "lib/media/paste-image-1720681620088image.png"
+      ]
+    },
+    "知识库/论文-近场辐射三极管/第一周ppt讲稿.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 19597,
+      "exportedPath": "知识库/论文-近场辐射三极管/第一周ppt讲稿.html",
+      "dependencies": [
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091233.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091233.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091558.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091558.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091748.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091748.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091909.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091909.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716092851.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716092851.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716093654.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716093654.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716093841.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716093841.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094701.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094701.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094756.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094756.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094940.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094940.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716101235.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716101235.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716102205.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716102205.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716102757.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716102757.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716103125.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716103125.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716103236.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716103236.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716104847.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716104847.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716105926.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716105926.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110041.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110041.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111604.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111604.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111852.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111852.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111942.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111942.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716151532.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716151532.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716151646.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716151646.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716152549.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716152549.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716153943.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716153943.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716154400.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716154400.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716161807.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716161807.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716163459.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716163459.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716170817.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716170817.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716202252.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716202252.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110205.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110205.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110339.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110339.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110613.png",
+        "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110613.png"
+      ]
+    },
+    "知识库/论文-近场辐射三极管/基于多孔SiC双曲超材料的...体系统近场辐射热传输的研究_李晓红 (1)-已解锁.pdf": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 13149303,
+      "exportedPath": "知识库/论文-近场辐射三极管/基于多孔sic双曲超材料的...体系统近场辐射热传输的研究_李晓红-(1)-已解锁.pdf",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/理论提取.pdf": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2746121,
+      "exportedPath": "知识库/论文-近场辐射三极管/理论提取.pdf",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/单词库存/Dictionary.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 74573,
+      "exportedPath": "知识库/英语/外刊外文/单词库存/dictionary.html",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/单词库存/ReviewDictionary.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 139039,
+      "exportedPath": "知识库/英语/外刊外文/单词库存/reviewdictionary.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240704191339.png",
+        "lib/media/pasted-image-20240704191339.png"
+      ]
+    },
+    "知识库/英语/外刊外文/photo/photo/Pasted image 20240705161312.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2043849,
+      "exportedPath": "知识库/英语/外刊外文/photo/photo/pasted-image-20240705161312.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/China home to over one-third of world's AI large language models.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1849,
+      "exportedPath": "知识库/英语/外刊外文/photo/china-home-to-over-one-third-of-world's-ai-large-language-models.html",
+      "dependencies": [
+        "知识库/英语/外刊外文/photo/photo/pasted-image-20240705161312.png",
+        "知识库/英语/外刊外文/photo/photo/pasted-image-20240705161312.png"
+      ]
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240630105142.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1000789,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240630105142.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240630105202.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1286844,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240630105202.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240630105214.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 889732,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240630105214.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240704180856.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1925498,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240704180856.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240704191339.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1641701,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240704191339.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240704191608.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1765692,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240704191608.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240705161701.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1056403,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240705161701.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240705161755.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 760025,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240705161755.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240705161835.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1098241,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240705161835.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240705161934.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1301429,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240705161934.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240705161958.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1316626,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240705161958.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240705162013.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1316626,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240705162013.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240705162050.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 953412,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240705162050.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240710233556.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2421792,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240710233556.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240710233600.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2421792,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240710233600.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240710233616.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 933749,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240710233616.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240710233655.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1639927,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240710233655.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240710233718.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1899527,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240710233718.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240710233850.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1551444,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240710233850.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240715204226.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 49966,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240715204226.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240716141306.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2684083,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240716141306.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/Pasted image 20240716141422.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 56608,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240716141422.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/《习近平谈治国理政》第三卷重要概念汉英对照（十八）.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 8977,
+      "exportedPath": "知识库/英语/外刊外文/《习近平谈治国理政》第三卷重要概念汉英对照（十八）.html",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/Argentina returns 14 relics to China.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 6963,
+      "exportedPath": "知识库/英语/外刊外文/argentina-returns-14-relics-to-china.html",
+      "dependencies": [
+        "知识库/英语/外刊外文/photo/pasted-image-20240704191608.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240704191608.png"
+      ]
+    },
+    "知识库/英语/外刊外文/Chinese research team creates tiny, wireless brain sensor.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 4355,
+      "exportedPath": "知识库/英语/外刊外文/chinese-research-team-creates-tiny,-wireless-brain-sensor.html",
+      "dependencies": [
+        "知识库/英语/外刊外文/photo/pasted-image-20240715204226.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240715204226.png"
+      ]
+    },
+    "知识库/英语/外刊外文/Conservation efforts help rare fish flourish in China's largest lake.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 11177,
+      "exportedPath": "知识库/英语/外刊外文/conservation-efforts-help-rare-fish-flourish-in-china's-largest-lake.html",
+      "dependencies": [
+        "知识库/英语/外刊外文/photo/pasted-image-20240630105142.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240630105142.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240630105202.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240630105202.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240630105214.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240630105214.png"
+      ]
+    },
+    "知识库/英语/外刊外文/Culture insider customs of Sanfu  the dog days of summer.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 8198,
+      "exportedPath": "知识库/英语/外刊外文/culture-insider-customs-of-sanfu-the-dog-days-of-summer.html",
+      "dependencies": [
+        "知识库/英语/外刊外文/photo/pasted-image-20240705161701.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240705161701.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240705161755.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240705161755.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240705161835.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240705161835.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240705161934.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240705161934.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240705161958.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240705161958.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240705162050.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240705162050.png"
+      ]
+    },
+    "知识库/英语/外刊外文/Dongting Lake water levels drop.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 3677,
+      "exportedPath": "知识库/英语/外刊外文/dongting-lake-water-levels-drop.html",
+      "dependencies": [
+        "知识库/英语/外刊外文/photo/pasted-image-20240710233850.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240710233850.png"
+      ]
+    },
+    "知识库/英语/外刊外文/First-half figures offer solid base for whole-year growth.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 11037,
+      "exportedPath": "知识库/英语/外刊外文/first-half-figures-offer-solid-base-for-whole-year-growth.html",
+      "dependencies": [
+        "知识库/英语/外刊外文/photo/pasted-image-20240716141306.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240716141306.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240716141422.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240716141422.png"
+      ]
+    },
+    "知识库/英语/外刊外文/Liaoning scraps its rusty past to shine as hub of innovation.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 19011,
+      "exportedPath": "知识库/英语/外刊外文/liaoning-scraps-its-rusty-past-to-shine-as-hub-of-innovation.html",
+      "dependencies": [
+        "知识库/英语/外刊外文/photo/pasted-image-20240710233600.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240710233600.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240710233616.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240710233616.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240710233655.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240710233655.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240710233718.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240710233718.png"
+      ]
+    },
+    "知识库/英语/外刊外文/Mixed use of fuel, food tankers sparks debate.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 7656,
+      "exportedPath": "知识库/英语/外刊外文/mixed-use-of-fuel,-food-tankers-sparks-debate.html",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/Samples from moon's far side 'thicker, stickier'.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 8154,
+      "exportedPath": "知识库/英语/外刊外文/samples-from-moon's-far-side-'thicker,-stickier'.html",
+      "dependencies": [
+        "知识库/英语/外刊外文/photo/pasted-image-20240704180856.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240704180856.png"
+      ]
+    },
+    "知识库/英语/外刊外文/Xi Focus Bearing China's lunar exploration endeavors in mind.md": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 9208,
+      "exportedPath": "知识库/英语/外刊外文/xi-focus-bearing-china's-lunar-exploration-endeavors-in-mind.html",
+      "dependencies": [
+        "知识库/英语/外刊外文/photo/pasted-image-20240704191339.png",
+        "知识库/英语/外刊外文/photo/pasted-image-20240704191339.png"
+      ]
+    },
+    "知识库/代码/python/photo/pasted-image-20240703144914.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 121353,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703144914.png",
+      "dependencies": []
+    },
+    "知识库/代码/python/photo/pasted-image-20240703145351.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 144628,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703145351.png",
+      "dependencies": []
+    },
+    "知识库/代码/python/photo/pasted-image-20240703145432.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 182392,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703145432.png",
+      "dependencies": []
+    },
+    "知识库/代码/python/photo/pasted-image-20240703145509.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 155000,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703145509.png",
+      "dependencies": []
+    },
+    "知识库/代码/python/photo/pasted-image-20240703145601.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 122071,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703145601.png",
+      "dependencies": []
+    },
+    "知识库/代码/python/photo/pasted-image-20240703152755.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 206952,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703152755.png",
+      "dependencies": []
+    },
+    "知识库/代码/python/photo/pasted-image-20240703153459.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 147127,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703153459.png",
+      "dependencies": []
+    },
+    "知识库/代码/python/photo/pasted-image-20240703143832.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 43601,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703143832.png",
+      "dependencies": []
+    },
+    "知识库/代码/python/photo/pasted-image-20240703143919.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 133457,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703143919.png",
+      "dependencies": []
+    },
+    "知识库/代码/python/photo/pasted-image-20240703143225.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 35765,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703143225.png",
+      "dependencies": []
+    },
+    "知识库/代码/python/photo/pasted-image-20240703143325.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 22717,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703143325.png",
+      "dependencies": []
+    },
+    "知识库/代码/python/photo/pasted-image-20240703143357.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 144952,
+      "exportedPath": "知识库/代码/python/photo/pasted-image-20240703143357.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232613.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 147846,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232613.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232800.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 23232,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232800.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232821.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 38339,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232821.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232845.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 28507,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232845.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232906.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 28010,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232906.png",
+      "dependencies": []
+    },
+    "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232913.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 30229,
+      "exportedPath": "知识库/电赛/树莓派/视觉/photo/pasted-image-20240627232913.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/api/分类/处理api/photo/pasted-image-20240629150148.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 237508,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/photo/pasted-image-20240629150148.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/api/分类/处理api/photo/pasted-image-20240629150126.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 145597,
+      "exportedPath": "知识库/电赛/openmv/api/分类/处理api/photo/pasted-image-20240629150126.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240629150920.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 622780,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629150920.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240629150940.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 34975,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629150940.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240629151716.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 80112,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151716.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240629151307.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 40785,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151307.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240629151327.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 15190,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151327.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240629151403.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 39496,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151403.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240629151409.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 8886,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151409.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240629151428.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 40558,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151428.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240629151443.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 9107,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240629151443.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/8856e4b418fec409faf7dd9dd4c2eea.jpg": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 522200,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/8856e4b418fec409faf7dd9dd4c2eea.jpg",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240628192904.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 347769,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628192904.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240628193136.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 11225,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628193136.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240628193359.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 48824,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628193359.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240628193941.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 106419,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628193941.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240628194053.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 93606,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628194053.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240628193648.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 102223,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628193648.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/pasted-image-20240628194319.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 32853,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/pasted-image-20240628194319.png",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/62ed39a25d3b29c013b02bc9cb17461.jpg": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 151910,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/62ed39a25d3b29c013b02bc9cb17461.jpg",
+      "dependencies": []
+    },
+    "知识库/电赛/openmv/k210/photo/5897a9acf3699fb599cfb978bf5d708.jpg": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 117936,
+      "exportedPath": "知识库/电赛/openmv/k210/photo/5897a9acf3699fb599cfb978bf5d708.jpg",
+      "dependencies": []
+    },
+    "知识库/课内学习/电路/石群/photo/paste-image-17204834898841720483466349.jpg": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 222587,
+      "exportedPath": "知识库/课内学习/电路/石群/photo/paste-image-17204834898841720483466349.jpg",
+      "dependencies": []
+    },
+    "知识库/课内学习/电路/石群/photo/paste-image-1720509939025image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 35119,
+      "exportedPath": "知识库/课内学习/电路/石群/photo/paste-image-1720509939025image.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/电路/石群/photo/paste-image-1720510407113image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 29466,
+      "exportedPath": "知识库/课内学习/电路/石群/photo/paste-image-1720510407113image.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/电路/石群/photo/paste-image-1720591343845image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 60628,
+      "exportedPath": "知识库/课内学习/电路/石群/photo/paste-image-1720591343845image.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/photo/pasted-image-20240710154309.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 34953,
+      "exportedPath": "知识库/课内学习/物理/photo/pasted-image-20240710154309.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/photo/pasted-image-20240710160307.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 3901702,
+      "exportedPath": "知识库/课内学习/物理/photo/pasted-image-20240710160307.png",
+      "dependencies": []
+    },
+    "知识库/课内学习/物理/photo/pasted-image-20240711095652.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 347118,
+      "exportedPath": "知识库/课内学习/物理/photo/pasted-image-20240711095652.png",
+      "dependencies": []
+    },
+    "lib/media/paste-image-1721278505467image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 159577,
+      "exportedPath": "lib/media/paste-image-1721278505467image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/paste-image-1720772582322image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 343279,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/paste-image-1720772582322image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/paste-image-1720780926021image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 222743,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/paste-image-1720780926021image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/paste-image-1720781468138image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 144377,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/paste-image-1720781468138image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/paste-image-1720781617027image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 503943,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/paste-image-1720781617027image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/paste-image-1720783511943image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 152786,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/paste-image-1720783511943image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/paste-image-1720783472985image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 352679,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/paste-image-1720783472985image.png",
+      "dependencies": []
+    },
+    "lib/media/paste-image-1720666021920image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 254901,
+      "exportedPath": "lib/media/paste-image-1720666021920image.png",
+      "dependencies": []
+    },
+    "lib/media/paste-image-1720667948432image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 453206,
+      "exportedPath": "lib/media/paste-image-1720667948432image.png",
+      "dependencies": []
+    },
+    "lib/media/paste-image-1720681620088image.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 174193,
+      "exportedPath": "lib/media/paste-image-1720681620088image.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091233.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 158041,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091233.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091558.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 173067,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091558.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091748.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 84962,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091748.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091909.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 197137,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716091909.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716092851.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 322653,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716092851.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716093654.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 85972,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716093654.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716093841.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 217770,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716093841.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094701.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 275022,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094701.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094756.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 86748,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094756.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094940.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 191555,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716094940.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716101235.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 264860,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716101235.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716102205.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 385018,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716102205.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716102757.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 145365,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716102757.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716103125.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 173198,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716103125.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716103236.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 649830,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716103236.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716104847.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 212336,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716104847.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716105926.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 328716,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716105926.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110041.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 85283,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110041.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111604.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 385371,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111604.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111852.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 122970,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111852.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111942.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 287639,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716111942.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716151532.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 85829,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716151532.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716151646.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 190561,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716151646.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716152549.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 332753,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716152549.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716153943.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 220987,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716153943.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716154400.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 254479,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716154400.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716161807.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 277806,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716161807.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716163459.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 345919,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716163459.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716170817.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 188629,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716170817.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716202252.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 539451,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716202252.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110205.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 86165,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110205.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110339.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 159892,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110339.png",
+      "dependencies": []
+    },
+    "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110613.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 99387,
+      "exportedPath": "知识库/论文-近场辐射三极管/photo/pasted-image-20240716110613.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240704191339.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1641701,
+      "exportedPath": "lib/media/pasted-image-20240704191339.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/photo/pasted-image-20240705161312.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2043849,
+      "exportedPath": "知识库/英语/外刊外文/photo/photo/pasted-image-20240705161312.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240704191608.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1765692,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240704191608.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240715204226.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 49966,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240715204226.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240630105142.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1000789,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240630105142.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240630105202.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1286844,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240630105202.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240630105214.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 889732,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240630105214.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240705161701.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1056403,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240705161701.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240705161755.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 760025,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240705161755.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240705161835.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1098241,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240705161835.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240705161934.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1301429,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240705161934.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240705161958.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1316626,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240705161958.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240705162050.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 953412,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240705162050.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240710233850.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1551444,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240710233850.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240716141306.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2684083,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240716141306.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240716141422.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 56608,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240716141422.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240710233600.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 2421792,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240710233600.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240710233616.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 933749,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240710233616.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240710233655.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1639927,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240710233655.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240710233718.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1899527,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240710233718.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240704180856.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1925498,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240704180856.png",
+      "dependencies": []
+    },
+    "知识库/英语/外刊外文/photo/pasted-image-20240704191339.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1641701,
+      "exportedPath": "知识库/英语/外刊外文/photo/pasted-image-20240704191339.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 124066,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 10804,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 130208,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 852256,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1721456524804,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
